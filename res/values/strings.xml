@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cry.On.Ic</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+ 
+    <!-- XML Strings -->
+    <string name="coinQtyText">1</string>
+    <string name="coinQtyHint">Amount</string>
+    <string name="coinNameHint">Coin Name</string>
+    <string name="quantityHint">Quantity</string>
+    <string name="equalSign"> = </string>
+    <string name="imageDesc">Image Description</string>
+    <string name="image">Image</string>
+    <string name="symbol">Symbol</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="reward">Reward</string>
+    <string name="minBlockTime">Minimum Block Time</string>
+    <string name="networkhashRate">Network Hash Rate</string>
+    <string name="avgHash">Average Hash</string>
+    <string name="exchange">Exchange</string>
+    
+    <!-- Menu Strings -->
+	<string name="appInfo">About This App</string>
+	<string name="queryGoogle">Query Google</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Alphacoin</item>
+        <item>AmericanCoin</item>
+        <item>Anoncoin</item>
+        <item>Argentum</item>
+        <item>Betacoin</item>
+        <item>BBQCoin</item>
+        <item>BitBar</item>
+        <item>Bitcoin</item>
+        <item>Bytecoin</item>
+        <item>Bottlecaps</item>
+        <item>CryptogenicBullion</item>
+        <item>Cosmoscoin</item>
+        <item>CHNCoin</item>
+        <item>Craftcoin</item>
+        <item>eMark</item>
+        <item>DigitalCoin</item>
+        <item>Diamond</item>
+        <item>Dogecoin</item>
+        <item>Devcoin</item>
+        <item>Earthcoin</item>
+        <item>Elacoin</item>
+        <item>Elephantcoin</item>
+        <item>Extremecoin</item>
+        <item>EZCoin</item>
+        <item>Freicoin</item>
+        <item>Franko</item>
+        <item>Fastcoin</item>
+        <item>Feathercoin</item>
+        <item>Grandcoin</item>
+        <item>GoldCoin</item>
+        <item>Galaxycoin</item>
+        <item>HoboNickels</item>
+        <item>Infinitecoin</item>
+        <item>IXCoin</item>
+        <item>Junkcoin</item>
+        <item>Luckycoin</item>
+        <item>Litecoin</item>
+        <item>Megacoin</item>
+        <item>Mincoin</item>
+        <item>Nanotoken</item>
+        <item>Nybble</item>
+        <item>Neocoin</item>
+        <item>Noirbits</item>
+        <item>Novacoin</item>
+        <item>Orbitcoin</item>
+        <item>OpenSourcecoin</item>
+        <item>Philosopherstone</item>
+        <item>PPCoin</item>
+        <item>Phoenixcoin</item>
+        <item>Redcoin</item>
+        <item>RoyalCoin</item>
+        <item>Stablecoin</item>
+        <item>Spots</item>
+        <item>Starcoin</item>
+        <item>Sexcoin</item>
+        <item>Tigercoin</item>
+        <item>Terracoin</item>
+        <item>Unobtanium</item>
+        <item>Worldcoin</item>
+        <item>Joulecoin</item>
+        <item>Xencoin</item>
+        <item>Zetacoin</item>
+        <item>GlobalCoin</item>
+    </string-array>
+    <string-array name="coin_symbols">
+        <item>ALF</item>
+        <item>AMC</item>
+        <item>ANC</item>
+        <item>ARG</item>
+        <item>BET</item>
+        <item>BQC</item>
+        <item>BTB</item>
+        <item>BTC</item>
+        <item>BTE</item>
+        <item>CAP</item>
+        <item>CGB</item>
+        <item>CMC</item>
+        <item>CNC</item>
+        <item>CRC</item>
+        <item>DEM</item>
+        <item>DGC</item>
+        <item>DMD</item>
+        <item>DOGE</item>
+        <item>DVC</item>
+        <item>EAC</item>
+        <item>ELC</item>
+        <item>ELP</item>
+        <item>EXC</item>
+        <item>EZC</item>
+        <item>FRC</item>
+        <item>FRK</item>
+        <item>FST</item>
+        <item>FTC</item>
+        <item>GDC</item>
+        <item>GLD</item>
+        <item>GLX</item>
+        <item>HBN</item>
+        <item>IFC</item>
+        <item>IXC</item>
+        <item>JKC</item>
+        <item>LKY</item>
+        <item>LTC</item>
+        <item>MEC</item>
+        <item>MNC</item>
+        <item>NAN</item>
+        <item>NBL</item>
+        <item>NEC</item>
+        <item>NRB</item>
+        <item>NVC</item>
+        <item>ORB</item>
+        <item>OSC</item>
+        <item>PHS</item>
+        <item>PPC</item>
+        <item>PXC</item>
+        <item>RED</item>
+        <item>RYC</item>
+        <item>SBC</item>
+        <item>SPT</item>
+        <item>STR</item>
+        <item>SXC</item>
+        <item>TGC</item>
+        <item>TRC</item>
+        <item>UNO</item>
+        <item>WDC</item>
+        <item>XJO</item>
+        <item>XNC</item>
+        <item>ZET</item>
+        <item>GLC</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/alphacoin</item>
+        <item>@drawable/americancoin</item>
+        <item>@drawable/anoncoin</item>
+        <item>@drawable/argentum</item>
+        <item>@drawable/betacoin</item>
+        <item>@drawable/bbqcoin</item>
+        <item>@drawable/bitbar</item>
+        <item>@drawable/bitcoin</item>
+        <item>@drawable/bytecoin</item>
+        <item>@drawable/bottlecaps</item>
+        <item>@drawable/cryptogenicbullion</item>
+        <item>@drawable/cosmoscoin</item>
+        <item>@drawable/chncoin</item>
+        <item>@drawable/craftcoin</item>
+        <item>@drawable/emark</item>
+        <item>@drawable/digitalcoin</item>
+        <item>@drawable/diamond</item>
+        <item>@drawable/dogecoin</item>
+        <item>@drawable/devcoin</item>
+        <item>@drawable/earthcoin</item>
+        <item>@drawable/elacoin</item>
+        <item>@drawable/elephantcoin</item>
+        <item>@drawable/extremecoin</item>
+        <item>@drawable/ezcoin</item>
+        <item>@drawable/freicoin</item>
+        <item>@drawable/franko</item>
+        <item>@drawable/fastcoin</item>
+        <item>@drawable/feathercoin</item>
+        <item>@drawable/grandcoin</item>
+        <item>@drawable/goldcoin</item>
+        <item>@drawable/galaxycoin</item>
+        <item>@drawable/hobonickels</item>
+        <item>@drawable/infinitecoin</item>
+        <item>@drawable/ixcoin</item>
+        <item>@drawable/junkcoin</item>
+        <item>@drawable/luckycoin</item>
+        <item>@drawable/litecoin</item>
+        <item>@drawable/megacoin</item>
+        <item>@drawable/mincoin</item>
+        <item>@drawable/nanotoken</item>
+        <item>@drawable/nybble</item>
+        <item>@drawable/neocoin</item>
+        <item>@drawable/noirbits</item>
+        <item>@drawable/novacoin</item>
+        <item>@drawable/orbitcoin</item>
+        <item>@drawable/opensourcecoin</item>
+        <item>@drawable/philosopherstone</item>
+        <item>@drawable/ppcoin</item>
+        <item>@drawable/phoenixcoin</item>
+        <item>@drawable/redcoin</item>
+        <item>@drawable/royalcoin</item>
+        <item>@drawable/stablecoin</item>
+        <item>@drawable/spots</item>
+        <item>@drawable/starcoin</item>
+        <item>@drawable/sexcoin</item>
+        <item>@drawable/tigercoin</item>
+        <item>@drawable/terracoin</item>
+        <item>@drawable/unobtanium</item>
+        <item>@drawable/worldcoin</item>
+        <item>@drawable/joulecoin</item>
+        <item>@drawable/xencoin</item>
+        <item>@drawable/zetacoin</item>
+        <item>@drawable/globalcoin</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
